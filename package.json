@@ -1,11 +1,18 @@
 {
   "name": "react-native-remote-push",
   "version": "0.0.1",
+  "description": "A module that allows you request permissions, get device token and subscribe to remote push notifications",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:llanox/react-native-remote-push.git"
+  },
   "private": true,
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "dependencies": {
-    "react-native": "^0.3.4"
+    "react-native": "0.4.2"
   }
+
+  
 }
